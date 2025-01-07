@@ -32,7 +32,6 @@ Focus: Efficient scheduling and management of services like electricity and wast
 [Tanvi Shikhari ]
 Module: Transport Management
 Focus: Optimizing transportation routes and reducing congestion.
-https://drive.google.com/file/d/1wSS46hJaIlU3DIEiLghAFRmUNwhNo6F5/view?usp=sharing
 
 
 ## 🚀 Skills
