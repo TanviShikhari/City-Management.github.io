@@ -5,17 +5,34 @@
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-- **Project 1**:  The City Management System is designed to streamline and enhance the operations and services provided within a city. It is divided into four interconnected but independent modules, each focusing on a critical aspect of urban management. These modules are:
-Resident Management
-This module focuses on maintaining detailed records of the city's residents, including their personal information, household details, and demographic data. It enables efficient communication with residents, facilitates service requests, and supports initiatives like voter registration, healthcare, and public notifications.
-Infrastructure Management
-This module handles the planning, maintenance, and monitoring of city infrastructure. It keeps track of roads, buildings, utilities, and other public facilities. Key features include scheduling repairs, monitoring construction projects, and ensuring the city infrastructure meets safety and regulatory standards.
-Services Management
-The Services module oversees the administration of essential public services, such as waste management, water supply, electricity, and emergency services. It ensures that these services are delivered effectively and tracks requests, complaints, and feedback from residents to improve overall service quality.
+- **Project 1**:  🛠 Modules in the Project
+Residents Management
+Tracks population data and manages citizen information.
+Handles registration, updates, and allocation of resources.
+Infrastructure Management (My Module!)
+Manages public infrastructure, such as roads, parks, and public buildings.
+Implements algorithms like Dijkstra’s for shortest path planning and facility maintenance.
+Service Management
+Monitors city services like 1. Garbage Collection, Health Care, Water Management, Workforce Management, Urban Planning, Emergency Services, etc
+Uses dynamic scheduling and optimization techniques for service delivery.
 Transport Management
-This module manages the city's transportation network, including public transit systems, traffic control, and parking facilities. It aims to optimize traffic flow, reduce congestion, and provide accessible transportation options for all citizens. Features include scheduling public transportation, monitoring traffic patterns, and planning future transportation projects.
-Each module works independently but contributes to the broader goal of creating a smart, efficient, and livable city for its residents.
-theme: jekyll-theme-cayman
+Optimizes transportation routes and traffic flow within the city.
+Uses graph traversal (DFS/BFS) for route analysis and optimization.
+👨‍💻 Contributors
+Poorvi V Jambig
+Module: Infrastructure Management
+Focus: Implementing optimization algorithms for public infrastructure.
+Responsibilities: Coding algorithms for resource allocation, route optimization, and city facility management.
+[Zoya Hudli]
+Module: Residents Management
+Focus: Managing population data and resource allocation.
+[Anushri B Kajagar ]
+Module: Service Management
+Focus: Efficient scheduling and management of services like electricity and waste disposal.
+[Tanvi Shikhari ]
+Module: Transport Management
+Focus: Optimizing transportation routes and reducing congestion.
+https://drive.google.com/file/d/1wSS46hJaIlU3DIEiLghAFRmUNwhNo6F5/view?usp=sharing
 
 
 ## 🚀 Skills
