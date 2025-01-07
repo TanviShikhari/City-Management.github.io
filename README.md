@@ -1,4 +1,4 @@
-# City-Management.github.io## Portfolio
+# City-Management.github.io
 
 ### Hello, I'm [Tanvi Shikhari] 👋
 
