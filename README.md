@@ -21,7 +21,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 <dl>
 <dt>Course Name</dt>
-<dd>Data and Analysis of Algorithm Lab</dd>
+<dd>Design and Analysis of Algorithm Lab</dd>
 <dt>Course Code</dt>
 <dd>24ECSP205</dd>
 <dt>Name</dt>
