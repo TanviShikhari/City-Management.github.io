@@ -32,7 +32,7 @@ Focus: Efficient scheduling and management of services like electricity and wast
 [Tanvi Shikhari ]
 Module: Transport Management
 Focus: Optimizing transportation routes and reducing congestion.
-
+<img src="smart-cities-feature.jpg" alt="Description of the image" width="500">
 
 ## 🚀 Skills
 - C++, Python, JavaScript
